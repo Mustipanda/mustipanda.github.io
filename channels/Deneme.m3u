@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,TRT 1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+
+#EXTINF:-1,Kanal 7
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#EXTINF:-1,Kanal 7 (Backup 1080p)
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+
+#EXTINF:-1,ATV
+https://edge01.iptv.digijadoo.net/live/atv/chunks.m3u8
+
+#EXTINF:-1,Kanal D
+http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
+
+#EXTINF:-1,Show TV
+http://origin.live.web.tv.streamprovider.net/streams/1c3194be3e42b53e3b61831517eb972a_live_0_0/index.m3u8
+
+#EXTINF:-1,Star TV
+http://origin.live.web.tv.streamprovider.net/streams/7acfc999bbde179fc45f18506125345f_live_0_0/index.m3u8
+
+#EXTINF:-1,TV8
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+
+#EXTINF:-1,NTV
+https://dogus-live.daioncdn.net/ntv/playlist.m3u8
+
+#EXTINF:-1,CNN Türk
+http://212.224.80.80/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
